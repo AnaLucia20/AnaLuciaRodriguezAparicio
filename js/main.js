@@ -10,3 +10,16 @@ $(document).ready(function() {
   });
 }); 
 
+/*$(document).scroll(function () {
+var scroll = $("#habilidades").scrollTop();
+
+if 
+$(document).scroll(function() {
+  var scroll = $(this).scrollTop();
+
+  if (scroll >= 600) {
+    $('#habilidades').addClass("chart");
+  } else {
+    $('#habilidades').removeClass("chart");
+  }
+ })*/

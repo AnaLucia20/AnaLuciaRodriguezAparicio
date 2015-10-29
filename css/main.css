@@ -255,26 +255,6 @@ li{
 }
 
 /**/
-
-.pt-2{
-    padding-top: 2%;
-}
-
-.pt-5{
-    padding-top: 5%;
-}
-.mb-2{
-    margin-bottom: 2%;
-}
-.mb-10{
-    margin-bottom:10%;
-}
-.pl-18{
-    padding-left: 18%;
-}
-.pr-18{
-    padding-right: 18%;
-}
 hr{
     border-color: #FFDA71;
     width: 40%;
