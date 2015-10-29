@@ -10,12 +10,3 @@ $(document).ready(function() {
   });
 }); 
 
-$(document).scroll(function () {
-var scroll = $('.chart').scrollTop()};
-
-if(scroll>=200){
-	$('#habilidades').chart("easyPieChart")
-	}else}
-    $('#habilidades').chart("easyPieChart")
-	}
-	})

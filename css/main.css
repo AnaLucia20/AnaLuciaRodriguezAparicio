@@ -63,7 +63,7 @@ body,html,.row{
 }
 
 #intro {
-        background: url("../img/code.JPG");
+        background: url("../img/code.jpg");
         background-size:cover;
         background-attachment: fixed, fixed;
         background-position: top, bottom center;
