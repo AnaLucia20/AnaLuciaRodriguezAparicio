@@ -138,6 +138,7 @@ li{
 .re{
     display: inline;
     height: 290px;
+    width: 100%;
 }
 
 .description{   
