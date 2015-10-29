@@ -1,0 +1,94 @@
+@font-face{
+    font-family:MadameKlara;
+    font-style:normal;
+    font-weight:normal;
+    src: url(../fonts/MadameKlara.ttf);
+}
+@font-face{
+    font-family:NexaScript-Free;
+    font-style:normal;
+    font-weight:normal;
+    src: url(../fonts/NexaScript-Free.otf);
+}
+
+
+h2{
+    font-family:NexaScript-Free;
+    font-size: 50px;
+    color: 	#FFDA71;
+    margin: 5% 0 5%;
+}
+h1{
+    font-family:NexaScript-Free;
+    font-size: 5em;
+    color:  #FFDA71;
+}
+.tipo_subtitle{
+    font-family:NexaScript-Free;
+    font-size: 40px;
+    color:  #FFA500;
+}
+
+.tipo_1-nav{
+	font-family:NexaScript-Free;
+    font-size: 1.5em;
+    color: #FF4500;
+}
+
+p{
+    font-family:Roboto Bold;
+    font-size: 20px;
+    margin-bottom: 0%;
+}
+
+.tipo_2{
+    font-family:'Oxygen', sans-serif;
+    font-size: 20px;
+    margin-bottom: 0%;
+    color: #FF8867;
+}
+
+.tipo_3{
+    font-family:MadameKlara;
+    font-size: 40px;
+    margin-bottom: 0%;
+    color: #66A366;
+}
+.tipo_4{
+    font-family:MadameKlara;
+    font-size: 20px;
+    margin-bottom: 0%;
+    color: #66A366;
+}
+
+.tipo_5{
+    font-family:'Oxygen', sans-serif;
+    font-size: 15px;
+    margin-bottom: 0%;
+    letter-spacing: 1px;
+    color: #fff;
+}
+
+.tipo_6{
+    font-family:'Oxygen', sans-serif;
+    font-size: 15px;
+    margin-bottom: 0%;
+    letter-spacing: 1px;
+    color: #000;
+}
+
+.title{
+    font-family:'Oxygen', sans-serif;
+    font-size: 1.8em;
+    margin-bottom: 0%;
+    letter-spacing: 1px;
+    color: #000;
+}
+
+.subtitle{
+    font-family:'Oxygen', sans-serif;
+    font-size: 1em;
+    margin-bottom: 0%;
+    letter-spacing: 1px;
+    color: #000;
+}
