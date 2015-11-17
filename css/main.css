@@ -130,30 +130,24 @@ li{
     text-align: center;
     border-radius: 50%;
     width: 24%;
+    cursor:pointer;
 }
+.iconos{
+  width: 30%;
+  padding-top: 5%;
+}
+
+.iconos2{
+  width: 54%;
+  margin-bottom: 5%;
+}
+
 .img-responsive{
   display: inline;
 }
 
-.re{
-    display: inline;
-    height: 290px;
-    width: 100%;
-}
-
 .description{   
     margin-top:3%;
-}
-
-.idea{
-    width: 4%;
-   display: inline-block;
-}
-
-.back{
-   width: 7%;
-   padding: 1%;
-   display: inline-block;
 }
 
 /*::::::::::::::::::habilidades::::::::::*/
@@ -167,7 +161,27 @@ li{
     background-color:##66A366;
 }
 
+#bg{
+  background-image: url("img/html5.jpg");
+}
 /*:::::::::::::::::proyectos::::::::*/
+.resize{
+  height: 280px;
+  border: 5px solid #FFDA71;
+}
+
+.resize-1{
+  height: 280px;
+}
+
+.resize-2{
+    position: relative;
+    top: -235px;
+    height: 189px;
+}
+.device-sreem{
+  background-image: url("../img/freelancer.jpg");
+}
 
 .view {
   border: 10px solid white;
@@ -263,7 +277,7 @@ hr{
 .chart {
   position: relative;
   display: inline-block;
-  margin: 20px 10px;
+  /*margin: 20px 10px;*/
   color: #999;
   font-size: 14px;
   text-align: center;
