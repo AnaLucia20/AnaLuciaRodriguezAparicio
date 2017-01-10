@@ -10,32 +10,35 @@
 }
 
 
-	#video_background {
-		background-position: center;
-		background-repeat: no-repeat;
-		background-size: cover;
-		background: url("./video/01.mp4");
-	    right: 0px;
-	    min-height: 100%;
-	    width: 100%;
-	    height: auto;
-	    z-index: -1000;
-	    overflow: hidden;
-	}
+.section1 .parallax{
+	position: fixed;
+}
+
+
+#video_background {
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background: url("./video/01.mp4");
+    right: 0px;
+    min-height: 100%;
+    width: 100%;
+    height: auto;
+    z-index: -1000;
+    overflow: hidden;
+}
 
 .nav_green{
 	height: 95px;
 	background-color: #937E1A;
-	position: absolute;
-	bottom: -85px;
+	position: relative;
+	top: 0px;
 	text-align: center;
 	width: 100%;
 }
 
-
-
 .section2{
-	padding: 50px 0px;
+	background-color: white;
 }
 
 .box_video{
@@ -55,3 +58,13 @@
 	margin-bottom: 15px;
 }
 
+.pd_80{
+	padding-top: 80px;
+}
+
+/*STICK*/
+
+.top_fix{
+	top:0px;
+	position: fixed;
+}
