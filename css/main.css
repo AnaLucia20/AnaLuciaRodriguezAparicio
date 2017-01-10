@@ -16,9 +16,9 @@ body,html,.row{
 	padding: 0;
 }
 
-.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+/*.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
     background-color: #FF8867;
-}
+}*/
 
 .navbar-header{
     background-color: #FF8867;
@@ -100,7 +100,10 @@ body,html,.row{
     border-radius: 0;
     position: fixed;
     width: 100%;
-    z-index: 20;}
+    z-index: 20;
+    border: 0px;
+    background-color: transparent;
+}
 
 li{
 	list-style: none;
