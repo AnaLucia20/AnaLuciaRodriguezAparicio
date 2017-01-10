@@ -28,7 +28,7 @@ $(function(event) {
 
 					// $(".nav.navbar-nav>li>a").css("color", "#fff");
 					$(".nav_green").addClass("top_fix");
-					$(".space").addClass("pd_5");		
+					$(".space").addClass("pd_80");		
 				} else {
 
 					$(".nav_green").removeClass("top_fix");	
